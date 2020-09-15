@@ -1,6 +1,6 @@
 # color_app
 
-A new Flutter application.
+A firstFlutter application.
 
 ## Getting Started
 
